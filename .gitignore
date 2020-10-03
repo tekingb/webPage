@@ -69,3 +69,9 @@ typings/
 
 # Serverless directories
 .serverless
+
+.firebase
+
+firebase.json
+
+.firebaserc

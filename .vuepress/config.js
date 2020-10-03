@@ -4,11 +4,11 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'TekingB',
+  title: 'TekingB - Enterprise software development',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: description,
+  description: 'Expose your processes or entities through a scalable and reliable REST API, provide services to your customers and suppliers. Use your own client system.',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
